@@ -1,0 +1,183 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Truth's pursuit after falshood, or, Certain untruths made manifest that was lately published in the news-book bearing date April 18. 1664. and those false aspersions cast upon an innocent people (called Quakers) truly testified against, and the truth witnessed unto, for the better information of all people, and the satisfaction of all that are sober-minded. Also, it may serve for a word of caution and good advice to all those of what degree or quality soever they be, that hath or may have any hand in persecuting an innocent people for their conscience sake. By a lover of truth and uprightness, but a hater of lying and falshood, William Warwick.</title>
+            <author>Warwick, William.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1664</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 24 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B06484</idno>
+            <idno type="OCLC"> 13320188</idno>
+            <idno type="STC">Wing W1011</idno>
+            <idno type="STC">Interim Tract Supplement Guide 4152.f.20[1]</idno>
+            <idno type="STC">ESTC R13438</idno>
+            <idno type="EEBO-CITATION">99882781</idno>
+            <idno type="PROQUEST">ocm99882781</idno>
+            <idno type="VID">183692</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B06484)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 183692)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; B1:5[1])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Truth's pursuit after falshood, or, Certain untruths made manifest that was lately published in the news-book bearing date April 18. 1664. and those false aspersions cast upon an innocent people (called Quakers) truly testified against, and the truth witnessed unto, for the better information of all people, and the satisfaction of all that are sober-minded. Also, it may serve for a word of caution and good advice to all those of what degree or quality soever they be, that hath or may have any hand in persecuting an innocent people for their conscience sake. By a lover of truth and uprightness, but a hater of lying and falshood, William Warwick.</title>
+                  <author>Warwick, William.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for the author,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1664.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Society of Friends --  Apologetic works --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-04</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-04</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:183692:1" rendition="simple:additions"/>
+            <p>
+               <hi>TR<g ref="char:V">Ʋ</g>TH's</hi> Purſuit after FALSHOOD: OR, Certain untruths made manifeſt that was lately publiſhed in the News-book bearing date <hi>April</hi> 18. 1664. and thoſe falſe Aſperſions caſt upon an Innocent People (called <hi>Quakers</hi>) truly teſtified againſt, and the truth witneſſed unto, for the better Information of all People, and the Satisfaction of all that are ſober-minded.</p>
+            <p>ALSO, It may ſerve for a word of caution and good ad<g ref="char:EOLhyphen"/>vice to all thoſe of what Degree or Quality ſoever they be, that hath or may have any hand in perſecuting an Innocent people for their Conſcience ſake.</p>
+            <p>By a Lover of Truth and uprightneſs, but a Hater of Lying and Falſhood, <hi>William Warwick.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for the Author, 1664.</p>
+         </div>
+      </front>
+      <body>
+         <div type="religious_tract">
+            <pb facs="tcp:183692:2"/>
+            <pb n="1" facs="tcp:183692:2"/>
+            <head>Truth's Purſuit after Falſhood.</head>
+            <p>WHoever thou art, or of what degree, quality, or place thou may be in in this world, into whoſe view this little Paper may come, let prejudice be laid aſide, and in Gods fear let it b<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ead, and let that which is juſt and equal (that never did nor will deceive any) even Gods Witneſs in thy heart and conſcience be Judge in this Matter.</p>
+            <p>I having ſeen and read the News-book publiſhed the Munday 18 of <hi>April</hi> (ſo called) 1664. could not but be grieved in my ſpirit to ſee the audaciouſneſs and impudency of the Publiſher thereof, who by inſinuating and lying would in<g ref="char:EOLhyphen"/>cenſe both Rulers, Magiſtrates, and People againſt an innocent and peaceable people, who in ſcorn are called <hi>Quakers,</hi> who are well known to be a people that ſeeks the good, welfare, and proſperity of the ſouls and bodies of all men, and are found walking in the Doctrine of Chriſt and his Apoſtles, who ſaid, <hi>Love your enemies, and follow peace with all men and holineſs, without which no man ſhall ſee the Lord.</hi>
+            </p>
+            <p>And now friends and people into whoſe hand this may come, the everlaſting God of Compaſſions having ſo far manifeſted his love unto my ſoul, as to make known his living and unchangeable truth unto me from all the deceivable wayes and changeable Worſhips which are in the World, and not only ſo, but hath alſo inclined my heart to walk therein, unto his holy name be the praiſe and glory over all for ever; And having thus taſted of the love of God, and many a time been overcome therewith, even to the begetting of love again in my heart unto the Lord, and unto his truth which lives in my heart, and is become more dear unto me then all things beſide it; I judge it to be no leſs then my duty, accor<g ref="char:EOLhyphen"/>ding to my meaſure and the ability that God hath given me, to bear my teſtimony for the Lord at this time, as my being concerned therein, and repreſented unto the Nation as a perſon that makes it my buſineſs, to provide, fit up, and diſperſe ſeditious Pamphlets: and I can truly ſay in the fear of God, it is not out of any ambition or deſire that I have to appear in print, or any ſelf ſeeking or ſelf end whatſoever, but ſimply and nakedly that the truth may be cleared from thoſe falſe and ſcandalous aſperſions which this Enemy of Godlineſs hath caſt upon it, and for the better information of thoſe that deſires to know the truth of this Matter. I ſhall not much meddle with thoſe whom the ſcoffing ſeed of <hi>Iſhmael</hi> calls <hi>Hobby-horſes,</hi> or others wherein the truth is not ſo much concerned, but leave them to anſwer for themſelves.</p>
+            <p>And firſt of all, the Intelligencer is pleaſed to ſignifie the fair hope and ex<g ref="char:EOLhyphen"/>pectation he hath that ſomewhat will be done ere long for the ſuppreſſing of Conventicles; the neceſſity whereof (ſaith he) diſcovers it ſelf dayly, for it is not now enough for the Phanatiques to have their private Meetings in corners, and to enjoy them with all freedom and impunitie, unleſs they may triumph over Authority in the open ſtreets.</p>
+            <p>
+               <hi>Anſwer.</hi> Now <hi>Cains</hi> nature is made manifeſt, who was the firſt perſecutor for Religion, and the Wolfs teeth begins to appear under the ſheeps cloashing,
+<pb n="2" facs="tcp:183692:3"/>notwithſtanding the ſinceth words and ſoft out-ſide, yet will bire fore when it hath opportunity. And as for Conventicles, the Meetings of the people of God (ſcornfully called Quakers) cannot truly be called ſuch, for their Meetings are publick and their doors ſtands open, that all that comes may both hear and ſee what is ſpoken or done: Surely this zealot for the Church of <hi>England</hi> had forgotten (when he writ this Intelligence) what his Godſather and Godmo<g ref="char:EOLhyphen"/>ther (ſo called) did promiſe and vow in his name; <hi>viz.</hi> that he ſhould forſake the Devil and all his works; and is not Lying the work of the Devil? and doth he not lye when he ſaith, It is not now enough for the Phanatiques (as he calls them) to have their private Meetings, and to enjoy them with all freedom and impunity, unleſs they may triumph over Authority in the open ſtreets? To prove this to be a Lye, we need not go far for evidence; Let the Goals and Priſons throughout this Nation teſtifie how many innocent perſons are at this very time ſufferers therein, for no other cauſe but meeting together in Gods fear to wait upon him: and many thouſands in and about this great City of <hi>London</hi> are eye-witneſſes how we have been and are with Staves and Holberds kept out of our own hired houſes and meeting-places, and ſo many times have been neceſſitated to meet in the ſtreet? and this he calls triumphing over Au<g ref="char:EOLhyphen"/>thority; and all that have any true knowledge of our practice, principle, or doctrine can bear us witneſs that the tendency thereof, hath not been to triumph over Authority, or to the countenancing or encouraging of any in the leaſt ſo to do, or to oppoſe, reſiſt, or rebell againſt thoſe in Authority; but on the con<g ref="char:EOLhyphen"/>trary, we have been willing and ready to obey all and every juſt and lawfull com<g ref="char:EOLhyphen"/>mands of our Superiours, and that not for fear of wrath but for conſcience ſuke, and wherein they have required our obedience to any thing contrary to the minde and will of God revealed and made known unto us, we have in the ſear of God and in the ſpirit of meekneſs born our teſtimony againſt it through our patient ſuffering of whatever they have bin permitted to inflict upon us &amp; have rather choſen to lay down and part with all that is near and dear unto us, then to fin againſt the Lord, or to deny him before men, or to give that unto man which only and alone belongs unto God, even the rule and dominion over our Conſci<g ref="char:EOLhyphen"/>ences, and the Lord our God through his tender mercy hath preſerved us hither<g ref="char:EOLhyphen"/>to, and ſtill doth in the ſame minde firm and ſtedfaſt, unmoveable, and without wavering, well knowing on whom we have believed, notwithſtanding all the cruel threatnings that are dayly breathed againſt us, yet our confidence is in the Lord, and in the power of his might; and though the Furnace may be heat yet 7 times hotter, our God is the ſame as ever he was, who never leaves nor forſakes them that put their truſt in him; but is and will be preſent with his Choſen Inheritance, and the People in whom he hath placed his Name, and made his Power known; but the hope of the hippocrite ſhall periſh, and the expectation of the ungodly ſhall utterly fail.</p>
+            <p>Further, the intelligencer, (or rather foul informer) ſaith it is paſt that time of day with us now, to diſcover the danger of ſchiſmatical meetings, yet concerning their wayes and practices, a word perhaps of Information may not be amiſs.</p>
+            <p>
+               <hi>Anſwer.</hi> That Information which is contrary to Truth muſt needs be amiſs, and he would have come off with more credit if he had told of ſome news far remote, and ſaved his labour as to this which may ſo eaſily be diſproved, and it is but reaſonable and equal; that firſt he ſhould have proved the Quakers
+<pb n="3" facs="tcp:183692:3"/>meetings to have been ſchiſmatical by the Scriptures, before he had concluded them ſo to be; or at leaſt wiſe have procured ſome of his pious Clergy, or dig<g ref="char:EOLhyphen"/>nified Biſhops as he calls them, to have come to our meetings, and openly in the audience of the people, by righteous reaſon and ſound Arguments ground<g ref="char:EOLhyphen"/>ed upon the holy Scriptures of Truth convinced us, that the way we walk in is error, and that the way and practice they walk and are ſound in is Apoſtoli<g ref="char:EOLhyphen"/>cal, and according to the Scripture, then people would have believed them; otherwiſe, will not people be ready to ſay, they are lazy and idle ſhepherds; and conclude that they have not Truth on their ſide; notwithſtanding their Spiritual Courts Carnal Laws and Carnal Weapons, by which they would force and compel people to come to their Church, and bow and conform to their worſhip, when as yet they have not con<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>inced them that it is the way that God would have them worſhip in; and ſo it being contrary to their ſaith they would force them to be Hypocrites, for <hi>Whatſoever is not of faith is ſin:</hi> Therefore con<g ref="char:EOLhyphen"/>ſider this all you that would force people to conform to your worſhip contra<g ref="char:EOLhyphen"/>ry to the perſwaſion of the Spirit of God in their hearts and conſciences, and be well adviſed what you do; for the Lord hath opened the eyes of many people, and you can never being them into blindneſs again: and though you build your neſts on high and ſay in your hearts you have the ſtrength and power of the three Kingdoms on your ſide, and ſo truſt in the Arm of fleſh, and ſo forget the Lord and his dealings with you and your Fathers in the years that are paſt: It may be worth your ſerious conſideration, to conſider what was the ground or cauſe of the Lords giving of you into the hands of your enemies then, and leaving you as it were without hope of ever enjoying ſuch a day, as he hath miraculouſly given you again, and once more entruſted you withal: and now ſearch and try your wayes, and ſee whether the ſame ground and Gauſe that cauſed the anger of the Lord to be kindled againſt you, and your Fathers then, be not ſound amongſt you now, and if upon diligent ſearch you find it ſo to be, what reaſon can you produce to your ſelves that the ſame effect will not follow; For the Lord is juſt in all his wayes, and righteous in all his doings and now count me not your enemy for telling you the truth.</p>
+            <p>But hearken unto the witneſs of God in your own hearts, which condemns you in ſecret for your evil deeds, for that will deal plainly with you, and teſti<g ref="char:EOLhyphen"/>fie to the truth of theſe things; for in Gods holy ſear I declare that I write not theſe things out of any enmity to the Perſons or perſon of any of you, but in tender bowels of love, that if happily any of you may hearken and conſider, and turn unto the Lord before your day be turned into night, and the patience and long ſuffering of the Lord come to an end as to you-ward, and the houre of your viſitation be wholly over; ſurely the time haſtens, whither you hear or forbear, I am clear, and remember that you were once more warned.</p>
+            <p>And further, the Intelligencer ſaith; At the Bull and Mouth in St <hi>Martins</hi> near Alderſgate (a ſpacious building and the common meeting place of the Quakers) there are firſt 2 ſchools where the Children are taught by Catechiſms expreſs, that the Ceremonies of the Church of <hi>England</hi> are Idolatrous, and the Miniſters Antichriſtian; there are likewiſe under the ſame roof a Book-ſeller, &amp; a Book-binder, both Quakers, whoſe buſineſs it is to provide and fit up ſeditious Pamphlets to diſperſe at their meetings, medling with no other but what are againſt the Government, as may appear by divers peſtilent Libels that have
+<pb n="4" facs="tcp:183692:4"/>been lately ſeized in ſeveral quarters of the houſe, and from the ſame place and perſon, Books of that quality have been taken no leſs then five times in the ſpace of a fortnight.</p>
+            <p>
+               <hi>Anſwer,</hi> As for the Catechiſm that he ſeems to be ſo much offended at, the Au<g ref="char:EOLhyphen"/>thor thereof hath proved by the Scriptures of Truth the things therein aſſerted; which is more then <hi>Roger Leſtrange,</hi> hath done or any of the Biſhops or Clergy ſo call'd, as to prove by the holy Scriptures the Quakers meetings to be ſchiſmatical, &amp; their Books to be ſeditious pamphlets &amp; peſtilent libels, before he had ſo re<g ref="char:EOLhyphen"/>preſented them to the Nation; neither he, nor the Biſhops and Miniſters of the Church of <hi>England</hi> would willingly be ſo repreſented themſelves without any further proof then a bare affirmation, ye<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> if any one ſhould call them Antichri<g ref="char:EOLhyphen"/>ſtian, they would not be pleaſed though they are found walking contrary to the co<g ref="char:cmbAbbrStroke">̄</g>mand of Chriſt, who ſaid unto the true Chriſtian<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, <hi>as ye would that men ſhould do unto you, ſo do ye unto them,</hi> did <hi>Roger Leſtrange</hi> do ſo when he took away my books 5 times in leſs then the ſpace of 14 dayes as he confeſſes they were taken away, he had as much &amp; more cauſe to be aſham'd in the taking of them away as to be aſha<g ref="char:EOLhyphen"/>med to confeſs who took them away; for he that diſcovers theft ought alſo as much as in him lies to diſcover the theef, and do ſuch as perſecute for Religion, do as they would be done by; would they have their goods ſpoyled? would they be ſeparated from their Wiſes and tender Children, and from their honeſt and lawful imployment, by which they provide for their Families and are ſervice<g ref="char:EOLhyphen"/>able in their generation; would they be thruſt into noyſom priſons and ſtink<g ref="char:EOLhyphen"/>ing Dungeous, and there endure a ſtifling and a languiſhing Martyrdom (as thany hath done whoſe innocent blood cries for vengeance as righteous <hi>Abels</hi> did) would they be baniſhed out of their native Country? would they be proceeded againſt as felons, and to be put to death without mercy? and for no other cauſe, but for doing that which they are perſwaded by the ſpirit of God (in their hearts and conſciences) they ought to do; and if they ſhould not do it they ſhould ſin againſt the Lord; or on the other hand for refuſing to do that, which by the ſame holy Spirit of God they are perſwaded they ought not to do; and if they do it they ſhould therein alſo ſin againſt the Lord. And now you who would be called Chriſtians, would you be ſo done unto, and for no other cauſe but as afore mentioned? let Gods witneſſe ſpeak in your hearts and it will anſwer no; then remember Chriſts words (its no vain repetition,) <hi>as yee would that men ſhould do unto you, ſo do you unto them, and if any man ſay that he loves God and keeps not his Commandements he is a lyer;</hi> and again, <hi>if ye love me keep my Commandements</hi> ſaith Chriſt Jeſus; ſo try your ſelves and ſee what ſpirit you are on, <hi>for if any man have not the Spirit of Chriſt, he is none of his,</hi> then far from being a true Chriſtian, for the Spirit of Chriſt never perſecuted any, but was perſecuted in all Ages and Generations, neither came he <hi>to deſtroy mens lives, but to ſave them,</hi> therefore let none deceive themſelves with a name or profeſſion of Chriſtianity, only for except men and women be born again, and ſo become new creatures, there will be no entrance into Gods Kingdome, but their place will be with the goats on the left hand, and ſad will be their ſentence</p>
+            <p>And as for our medling with no other books, but ſuch as are againſt the Go<g ref="char:EOLhyphen"/>vernment, it is utterly falſe, and the lye return'd upon his own head that pub<g ref="char:EOLhyphen"/>liſhed it, for we meddle with none ſuch, but our books are well known unto thouſands that they are not againſt the Government; but againſt all unrighte<g ref="char:EOLhyphen"/>ouſneſs
+<pb n="5" facs="tcp:183692:4"/>where ever it is; whether in Kings, Rulers, Prieſt or people; and this is not contrary but agreeable to the Scriptures of Truth, as it is written, <hi>thou ſhalt not hate thy brother in thy heart, nor ſuffer ſin to lie upon him, have no fellowſhip with the unfruitful works of darkneſs, but rather reprove them:</hi> and for this cauſe was Chriſt Jeſus hated of the world, becauſe he teſtified againſt them that their deeds were evil and ſo are and have been his followers in all ages, and herein is the Scrip<g ref="char:EOLhyphen"/>ture fulfilled, <hi>they that will live godly ſhall ſuffer perſecution,</hi> and ſaith Chriſt Jeſus, <hi>Marvel not if the world hate you, it hated me, before you; the ſervant is not greater then his Lord, and if they have done ſo to the green tree, what will they do to the dry?</hi>
+            </p>
+            <p>And as for his calling thoſe books which he took from the Bull and mouth peſtilent Libels, it is the proper name of his own lying phamphlet, and moſt ſutable to the nature and quality thereof; as every ſober and impartial reader may eaſily judge, for the tendency of a great part of his phamphlet is to miſre<g ref="char:EOLhyphen"/>preſent an innocent people, unto the King, Parliament, and the whole Nation, as Haman did the Lords people unto Ahaſuerus, <hi>there is a certain people ſcattered abroad, and diſperſed among the people in all the Provinces of thy Kingdome, and their lawes are divers from all people, neither keep they the Kings lawes. Therefore, its not for the Kings profit to ſuffer them, if it pleaſe the King, l<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t it be written that they may be deſtroyed.</hi> Eſt. <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>.8.9. And does not <hi>Roger Le-ſtrange</hi> what in him lyes, ſeek to render the Lords people ſo now, by calling their books peſtilent libels, and againſt the government, &amp; ſo endeavours what he can to paralel wicked Haman, and to ſtir up the ſpirit of perſecution, that the innocent may be deſtroyed, and is not the ſpirit of perſecution both peſtilent, infectious and deſtructive to men, Countries, and whole Nations, as may be ſeen more at large in a book called <hi>A ſpecial Warrant for the apprehending of the Spirit of perſecution:</hi> and is not the ſpirit that is now in this man one and the ſelf ſame with that in Haman, or are his hopes now more fair, or his exſpectation more ſtrong then Hamans was; then when the Letters were ſealed with the Kings ring, and ſent by poſts into all the Kings provinces to deſtroy, to kill, and to cauſe to periſh, all Jews, both young and old, little children and women in one day: and did not the Lord de<g ref="char:EOLhyphen"/>liver then, and is not he as able to deliver now, and did not the juſt hand and judgement of the Lord overtake Haman then, and will he clear the guilty now, ſurely nay, if ye are ſound in the ſame ſpirit whoever you are, though high and exalted and think your ſelves ſecure: yet the hand of the Lord will finde you out, and his juſt judgements will overtake you and ſweep you away as with the beſom of deſtruction, except you ſpeedily repent; then ſhall you remember with ſorrow and anguiſh, and confeſs to the truth of what is here written; for the day is at hand wherein the mournful people of the Lord (who now are made will<g ref="char:EOLhyphen"/>ing to give their backs to the ſmiters, and their cheeks to them that plucks off the haire) ſhall ſing for joy of heart, when their perſecutors ſhall howl for vex<g ref="char:EOLhyphen"/>ation of ſpirit, ſo having cleard my conſcience in this matter though ſome may be offended at my plaineſſe, and becauſe I have told them the truth, and for this my teſtimony may yet be the more hated by ſuch as have eyes and ſee not, ears and hear not, and hearts and underſtand not the things that belongs to their e<g ref="char:EOLhyphen"/>verlaſting peace, yet my reward I feel with the Lord, and am well contented with my portion, and reſts in the will of God, and in perfect love and good will towards all men, who am known by the name of</p>
+            <closer>
+               <signed>William Warwick.</signed>
+            </closer>
+         </div>
+         <div type="postscript">
+            <pb n="6" facs="tcp:183692:5"/>
+            <head>POSTSCRIPT.</head>
+            <p>Whereas it is ſaid in the news book which was given forth in this Moneth called April upon the fourth day of the ſaid Moneth upon the day called Mon<g ref="char:EOLhyphen"/>day. That two Quakers were employed from <hi>Leeds</hi> upon the twelfth day of October to give notice that the Yorkſhire forces would be up that night. That there was a meeting according to appointment in <hi>Kirby Stephen</hi> Pa<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>riſh &amp;c. But this is a great miſtake &amp; a falſe thing concerning the people called Quakers for ſeveral credible perſons went to the Juſtices and queried of them why they did offer to ſend ſuch a thing up to <hi>London,</hi> which its like would come forth in the News-book which would be a great prejudice and hurt to this peo<g ref="char:EOLhyphen"/>ple who were innocent; the Juſtices anſwer was, that their Intelligence was from two men that looked ſober, and only one perſon would not be perſwaded, but he would put them in Quakers who had ſome malice againſt them; and ſo the Juſtices reported it was through that mans doings, and he would not be perſwaded otherwiſe: And the evidence in the Court before judge <hi>Twiſden</hi> and judge <hi>Turner</hi> at the Aſſize at <hi>Appleby</hi> was as followeth, <hi>viz.</hi> That 2 young men that were ſtrangers, came and gave intelligence to Captain <hi>Atkinſon</hi>—They asked what they were, and the evidence ſaid he knew not, they were ſober men.—Now one perſon cauſed them to be put in Quakers; and ſo when ſome had laid before the juſtices how it was wrong, &amp; how they had wronged thoſe people; And the juſtices ſaid that one perſon amongſt them would have it to be ſo, and ſo put it off themſelves,—which the judges knows what the evidence was that was gi<g ref="char:EOLhyphen"/>ven in open Court.</p>
+            <p>So in civility, and according to Equity, this ought to be amended and correct<g ref="char:EOLhyphen"/>ed in the next News-book, For the diſcourſe about it that the aforeſaid per<g ref="char:EOLhyphen"/>ſons had with the juſtices, was after the thing was drawn up to be ſent to the King, and the perſon that did it was not preſent when the reſt of the juſtices were ſpoken to about it—And ſo its good to remove that calumny and ſlander off, of the ſaid people which is caſt upon them throughout the Nation, for it is but reaſon &amp; equity ſo to do; for a teſtimony was given in the face of a Country and ſo it is known; and the correcting ſuch things renders the publiſher prudent. If any will not believe this teſtimony, deſire them to go to the ſaid Judge for further teſtimony.</p>
+            <p>Further,</p>
+            <p>And whereas he ſaith and declares once for all in his news publiſhed the day called thurſday April 21. 1664. as to endevour to make any people ridiculous, (and would fain cover his malice with this cloak) that labors to make the Go<g ref="char:EOLhyphen"/>vernment odious to the people, and further ſaith he, reſolves to follow the ſame courſe till authority ſtop his hand, which clearly doth demonſtrate that it is his own act and therein himſelf abuſes Authority by doing that which Authority (as his own words imply) hath juſt cauſe to put a ſtop unto, or elſe he muſt con<g ref="char:EOLhyphen"/>clude that Authority may do that which is in it ſelf unjuſt; let theſe things be weighed and conſidered in Gods fear, for they are of concernment. He that juſtifieth the wicked, and he that condemneth the juſt, both they are an abomi<g ref="char:EOLhyphen"/>nation unto the Lord.</p>
+            <trailer>The End.</trailer>
+            <pb facs="tcp:183692:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
